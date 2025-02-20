@@ -13,7 +13,7 @@ root = true
 # Possible values - tab, space
 
 indent_style = space
-
+  
 # Indentation size in single-spaced characters
 
 # Possible values - an integer, tab
