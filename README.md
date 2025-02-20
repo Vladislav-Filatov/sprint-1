@@ -6,11 +6,9 @@
 
 - HTML
 - CSS
-- JavaScript
 
 ### Основные принципы:
 
 - Анимация
 - Flexbox
-- Grid
 - Positioning 
